@@ -1,17 +1,22 @@
-# Thermistor-Temperature-Measurement
+# Thermistor Temperature Measurement
 
-Thermistor Temperature Measurement
 This project is a temperature measurement tool that uses a thermistor to measure the temperature of its environment. It is designed to be easy to use, with a simple interface and clear instructions.
 
 Getting Started
 To use this project, you will need the following equipment:
 
 A development board (e.g. Cypress PSoC 5LP)
+
 A thermistor
+
 A 10k resistor
+
 A breadboard
+
 Jumper wires
+
 A computer with PSoC Creator installed
+
 To get started, follow these steps:
 
 Connect the 10k resistor and thermistor in series on the breadboard.
